@@ -1,0 +1,2 @@
+source /home/pc/esp32/esp-idf/client_sensor/build/bootloader/gdbinit/symbols
+source /home/pc/esp32/esp-idf/client_sensor/build/bootloader/gdbinit/connect

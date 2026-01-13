@@ -281,10 +281,3 @@ cat /dev/urandom > /dev/fb0
 - [ESP-IDF Documentation](https://docs.espressif.com/projects/esp-idf/)
 
 ---
-
-**Note**: This is an educational IoT project. For production use, implement proper security measures, error handling, and data validation.
-```
-
----
-
-You can copy this directly into your `README.md` file! Would you like me to adjust anything? 📝

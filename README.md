@@ -269,9 +269,10 @@ cat /dev/urandom > /dev/fb0
 
 
 
-## 📸 Screenshots
+## Images
 
-[Add screenshots of your dashboard here]
+[Dashboard](https://github.com/SalimBelkhir/Buildroot-distro-for-Dashboard-applications/blob/main/images/dashboard.jpg)
+[Dashvoard_display](https://github.com/SalimBelkhir/Buildroot-distro-for-Dashboard-applications/blob/main/images/dashboard_display.jpg)
 
 ## Related Links
 
